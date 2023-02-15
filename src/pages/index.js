@@ -1,7 +1,6 @@
 import React from "react"
 import Layout from "@theme/Layout"
 import useDocusaurusContext from "@docusaurus/useDocusaurusContext"
-import styles from "./index.module.css"
 import Card from "../components/Card"
 
 function Home() {
