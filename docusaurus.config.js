@@ -24,7 +24,7 @@ const SECTIONS = [
   defineSection('welcome-to-evmos'),
   defineSection('get-involved'),
   defineSection('learn'),
-  defineSection('meet-the-team'),
+  defineSection('about'),
 ];
 
 /** @type {import('@docusaurus/types').Config} */
@@ -102,22 +102,22 @@ const config = {
           {
             position: 'left',
             label: 'Welcome to Evmos',
-            to: '/welcome-to-evmos/introduction',
+            to: '/welcome-to-evmos',
           },
           {
             position: 'left',
             label: 'Get Involved',
-            to: '/get-involved/community-call',
+            to: '/get-involved',
           },
           {
             position: 'left',
             label: 'Learn',
-            to: '/learn/keplr',
+            to: '/learn',
           },
           {
             position: 'left',
-            label: 'Meet the Team',
-            to: '/meet-the-team/core-team',
+            label: 'About',
+            to: '/about',
           },
         ],
       },
