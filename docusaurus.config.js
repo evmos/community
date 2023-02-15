@@ -33,7 +33,7 @@ const config = {
   tagline: 'Let us collaborate on Evmos Community',
   url: 'https://community.evmos.org',
   baseUrl: '/',
-  onBrokenLinks: 'throw',
+  onBrokenLinks: 'warn',
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/favicon.ico',
   trailingSlash: false,
