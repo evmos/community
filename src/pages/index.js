@@ -16,7 +16,7 @@ function Home() {
           <div className="container">
             <div className="row cards__container">
               <Card
-                to="welcome-to-evmos/introduction"
+                to="welcome-to-evmos"
                 header={{
                   label: "📚 Learn about Evmos",
                 }}
@@ -38,7 +38,7 @@ function Home() {
               />
 
               <Card
-                to="learn/keplr"
+                to="learn"
                 header={{
                   label: "🎓 Solidify Your Foundation",
                 }}
@@ -49,7 +49,7 @@ function Home() {
               />
 
               <Card
-                to="meet-the-team/core-team"
+                to="about"
                 header={{
                   label: "🤝 Come Meet Us",
                 }}
