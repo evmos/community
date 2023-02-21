@@ -1,7 +1,7 @@
 ---
 sidebar_position: 1
 hide_table_of_contents: true
-displayed_sidebar: 'none'
+displayed_sidebar: 'links'
 ---
 
 # Community Call
