@@ -21,10 +21,10 @@ function defineSection(section, options = {}) {
 }
 
 const SECTIONS = [
-  defineSection('welcome-to-evmos'),
-  defineSection('get-involved'),
+  defineSection('welcome'),
+  defineSection('engage'),
   defineSection('learn'),
-  defineSection('about'),
+  defineSection('faq'),
 ];
 
 /** @type {import('@docusaurus/types').Config} */
@@ -101,13 +101,13 @@ const config = {
         items: [
           {
             position: 'left',
-            label: 'Welcome to Evmos',
-            to: '/welcome-to-evmos',
+            label: 'Welcome',
+            to: '/welcome',
           },
           {
             position: 'left',
-            label: 'Get Involved',
-            to: '/get-involved',
+            label: 'Engage',
+            to: '/engage',
           },
           {
             position: 'left',
@@ -116,8 +116,8 @@ const config = {
           },
           {
             position: 'left',
-            label: 'About',
-            to: '/about',
+            label: 'FAQ',
+            to: '/faq',
           },
         ],
       },

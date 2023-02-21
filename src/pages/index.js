@@ -16,7 +16,7 @@ function Home() {
           <div className="container">
             <div className="row cards__container">
               <Card
-                to="welcome-to-evmos"
+                to="welcome"
                 header={{
                   label: "📚 Learn about Evmos",
                 }}
@@ -27,7 +27,7 @@ function Home() {
               />
 
               <Card
-                to="get-involved/community-calendar"
+                to="engage"
                 header={{
                   label: "✨ Get Involved",
                 }}
@@ -49,17 +49,6 @@ function Home() {
               />
 
               <Card
-                to="about"
-                header={{
-                  label: "🤝 Come Meet Us",
-                }}
-                body={{
-                  label:
-                    "Meet the brains behind the Evmos project",
-                }}
-              />
-
-              <Card
                 to=""
                 header={{
                   label: "🛠️ Launch dApp on Evmos",
@@ -67,17 +56,6 @@ function Home() {
                 body={{
                   label:
                     "Learn everything you need to deploy an EVM-compatible smart contract",
-                }}
-              />
-
-              <Card
-                to=""
-                header={{
-                  label: "🦉 Protocol Development",
-                }}
-                body={{
-                  label:
-                    "Access your portfolio with a wallet built specifically for subnets on Avalanche",
                 }}
               />
             </div>

@@ -2,7 +2,6 @@ import React from "react";
 import clsx from "clsx";
 import Link from "@docusaurus/Link";
 import styles from "./HomepageFeatures/styles.module.css";
-import Translate from "@docusaurus/Translate";
 
 function Card({ to, header, body, externalIcon = false }) {
   /*
@@ -13,7 +12,7 @@ function Card({ to, header, body, externalIcon = false }) {
   */
 
   return (
-    <div className={clsx("col col--4 ", styles.feature)}>
+    <div className={clsx("col col--6 ", styles.feature)}>
       <Link className="navbar__link card" to={to}>
         <div className="card__header">
           <h3>
