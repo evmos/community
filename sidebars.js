@@ -25,6 +25,11 @@ const sidebars = {
       type: 'link',
       label: 'Apply For Grant', // The link label
       href: 'https://www.encode.club/evmosgrants', // The external URL
+    },
+    {
+      type: 'link',
+      label: 'Follow our Community Calendar', // The link label
+      href: 'https://calendar.google.com/calendar/u/0/embed?src=c_grfooiam12n63762eld4ntue48@group.calendar.google.com&ctz=America/Chicago', // The external URL
     }
   ],
 

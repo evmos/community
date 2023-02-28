@@ -112,7 +112,7 @@ const config = {
           {
             position: 'left',
             label: 'Learn',
-            to: '/learn',
+            to: '/learn/wallets',
           },
           {
             position: 'left',
