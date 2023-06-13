@@ -10,7 +10,4 @@ Evmos strives to have a strong active community for every explorer, builder, val
 
 ### Join us on our:
 
-Bi-weekly Community Calls on [Twitter](https://twitter.com/EvmosOrg) <br /> 
-Weekly Governance Council calls on [Discord](https://discord.gg/evmos)<br />
-Bi-weekly AMA on [Discord](https://discord.gg/evmos)<br />
-
+Bi-monthly Community Calls on [Twitter](https://twitter.com/EvmosOrg) <br /> 
